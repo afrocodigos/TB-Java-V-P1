@@ -1,4 +1,4 @@
-# WEB APIs
+# WEB APIs e APIs
 
 ## Índice
 - [API X Web APIs](#api-x-web-api)
