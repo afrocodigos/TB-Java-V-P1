@@ -2,7 +2,7 @@
 
 ## Índice
 - [O que é?](#o-que-é)
-    -[Principais módulos](#principais-módulos)
+    - [Principais módulos](#principais-módulos)
 
 ### O que é? 
 Spring é um framework de aplicação open-source para a plataforma Java, e um dos mais populares para o desenvolvimento de aplicativos corporativos em Java. Ele fornece infraestrutura abrangente, recursos e funcionalidades para simplificar o desenvolvimento de aplicativos robustos e escaláveis.
