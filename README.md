@@ -21,7 +21,6 @@
 * [05.Injeção de Dependência](/conteudo/A0105-injecao-de-dependencia.md)
     - [O que é?](/conteudo/A0105-injecao-de-dependencia.md#o-que-é)
     - [Tipos de Injeção de Dependência](/conteudo/A0105-injecao-de-dependencia.md#tipos-de-injeção-de-dependência)
-        - [Via Interface](/conteudo/A0105-injecao-de-dependencia.md#via-interface)
         - [Via Construtor](/conteudo/A0105-injecao-de-dependencia.md#via-construtor)
         - [Via Setter](/conteudo/A0105-injecao-de-dependencia.md#via-setter)
         - [Injeção de Dependência com Spring](/conteudo/A0105-injecao-de-dependencia.md#injeção-de-dependência-com-spring)
