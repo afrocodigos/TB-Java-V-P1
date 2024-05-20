@@ -14,7 +14,7 @@
     - [HATEOAS](/conteudo/A0102-rest-restful.md/#hateoas-hypermedia-as-the-engine-of-application-state)
 * [03.SPRING](/conteudo/A0103-spring.md)
     - [O que é?](/conteudo/A0103-spring.md/#o-que-é)
-        -[Principais módulos](/conteudo/A0103-spring.md/#principais-módulos)
+      - [Principais módulos](/conteudo/A0103-spring.md/#principais-módulos)
 * [04.Inversão de Controle](/conteudo/A0104-inversao-de-controle.md)
     - [O que é?](/conteudo/A0104-inversao-de-controle.md/#o-que-é)
     - [Aplicando o DIP](/conteudo/A0104-inversao-de-controle.md/#aplicando-o-dip)
@@ -31,7 +31,7 @@
 
 
 * [Links Úteis](#links-úteis)
-* [Professora](#professora)
+* [Professora](#professora-analu)
 
 ### Links Úteis
 - []()
