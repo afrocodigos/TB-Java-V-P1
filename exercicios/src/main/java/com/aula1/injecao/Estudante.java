@@ -1,6 +1,6 @@
 package main.java.com.aula1.injecao;
 
-public class Estudante {
+public class Estudante implements Prova{
     private String nome;
 
     public Estudante() {
@@ -10,6 +10,7 @@ public class Estudante {
         this.nome = nome;
     }
 
+    @Override
     public void fazerProva() {
 
         System.out.println("Estudante " + nome + " fazendo prova.");
